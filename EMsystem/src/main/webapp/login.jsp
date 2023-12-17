@@ -15,7 +15,7 @@
 			<h1>EMSystem</h1>
 		</div>	
 		<div class="darkmode">
-				<input class="toggle-btn" type="button" value="Darkmode" onclick="toggleDarkMode();setDarkModePreference('is');"/>
+				<input class="toggle-btn" type="button" value="Darkmode" onclick="toggleDarkMode()"/>
 		</div>
 	</div>
 	</section>
